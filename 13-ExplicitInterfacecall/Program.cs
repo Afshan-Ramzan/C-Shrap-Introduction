@@ -8,6 +8,7 @@ namespace _13_ExplicitInterfacecall
         {
             Console.WriteLine("Hello World!");
             check c = new check();
+            // explicit call
             ((I2)c).Interafcemethod();
 
             // default implementation
