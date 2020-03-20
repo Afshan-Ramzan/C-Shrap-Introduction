@@ -1,0 +1,11 @@
+E:\C-Shrap-Introduction\14-UsingMultipleInterface\bin\Debug\netcoreapp3.1\14-UsingMultipleInterface.exe
+E:\C-Shrap-Introduction\14-UsingMultipleInterface\bin\Debug\netcoreapp3.1\14-UsingMultipleInterface.deps.json
+E:\C-Shrap-Introduction\14-UsingMultipleInterface\bin\Debug\netcoreapp3.1\14-UsingMultipleInterface.runtimeconfig.json
+E:\C-Shrap-Introduction\14-UsingMultipleInterface\bin\Debug\netcoreapp3.1\14-UsingMultipleInterface.runtimeconfig.dev.json
+E:\C-Shrap-Introduction\14-UsingMultipleInterface\bin\Debug\netcoreapp3.1\14-UsingMultipleInterface.dll
+E:\C-Shrap-Introduction\14-UsingMultipleInterface\bin\Debug\netcoreapp3.1\14-UsingMultipleInterface.pdb
+E:\C-Shrap-Introduction\14-UsingMultipleInterface\obj\Debug\netcoreapp3.1\14-UsingMultipleInterface.csprojAssemblyReference.cache
+E:\C-Shrap-Introduction\14-UsingMultipleInterface\obj\Debug\netcoreapp3.1\14-UsingMultipleInterface.AssemblyInfoInputs.cache
+E:\C-Shrap-Introduction\14-UsingMultipleInterface\obj\Debug\netcoreapp3.1\14-UsingMultipleInterface.AssemblyInfo.cs
+E:\C-Shrap-Introduction\14-UsingMultipleInterface\obj\Debug\netcoreapp3.1\14-UsingMultipleInterface.dll
+E:\C-Shrap-Introduction\14-UsingMultipleInterface\obj\Debug\netcoreapp3.1\14-UsingMultipleInterface.pdb
