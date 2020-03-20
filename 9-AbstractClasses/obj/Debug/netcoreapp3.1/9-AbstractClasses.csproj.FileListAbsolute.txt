@@ -1,0 +1,10 @@
+E:\C-Shrap-Introduction\9-AbstractClasses\bin\Debug\netcoreapp3.1\9-AbstractClasses.exe
+E:\C-Shrap-Introduction\9-AbstractClasses\bin\Debug\netcoreapp3.1\9-AbstractClasses.deps.json
+E:\C-Shrap-Introduction\9-AbstractClasses\bin\Debug\netcoreapp3.1\9-AbstractClasses.runtimeconfig.json
+E:\C-Shrap-Introduction\9-AbstractClasses\bin\Debug\netcoreapp3.1\9-AbstractClasses.runtimeconfig.dev.json
+E:\C-Shrap-Introduction\9-AbstractClasses\bin\Debug\netcoreapp3.1\9-AbstractClasses.dll
+E:\C-Shrap-Introduction\9-AbstractClasses\bin\Debug\netcoreapp3.1\9-AbstractClasses.pdb
+E:\C-Shrap-Introduction\9-AbstractClasses\obj\Debug\netcoreapp3.1\9-AbstractClasses.AssemblyInfoInputs.cache
+E:\C-Shrap-Introduction\9-AbstractClasses\obj\Debug\netcoreapp3.1\9-AbstractClasses.AssemblyInfo.cs
+E:\C-Shrap-Introduction\9-AbstractClasses\obj\Debug\netcoreapp3.1\9-AbstractClasses.dll
+E:\C-Shrap-Introduction\9-AbstractClasses\obj\Debug\netcoreapp3.1\9-AbstractClasses.pdb
