@@ -1,0 +1,11 @@
+E:\C-Shrap-Introduction\17-ExceptionHandling\bin\Debug\netcoreapp3.1\17-ExceptionHandling.exe
+E:\C-Shrap-Introduction\17-ExceptionHandling\bin\Debug\netcoreapp3.1\17-ExceptionHandling.deps.json
+E:\C-Shrap-Introduction\17-ExceptionHandling\bin\Debug\netcoreapp3.1\17-ExceptionHandling.runtimeconfig.json
+E:\C-Shrap-Introduction\17-ExceptionHandling\bin\Debug\netcoreapp3.1\17-ExceptionHandling.runtimeconfig.dev.json
+E:\C-Shrap-Introduction\17-ExceptionHandling\bin\Debug\netcoreapp3.1\17-ExceptionHandling.dll
+E:\C-Shrap-Introduction\17-ExceptionHandling\bin\Debug\netcoreapp3.1\17-ExceptionHandling.pdb
+E:\C-Shrap-Introduction\17-ExceptionHandling\obj\Debug\netcoreapp3.1\17-ExceptionHandling.AssemblyInfoInputs.cache
+E:\C-Shrap-Introduction\17-ExceptionHandling\obj\Debug\netcoreapp3.1\17-ExceptionHandling.AssemblyInfo.cs
+E:\C-Shrap-Introduction\17-ExceptionHandling\obj\Debug\netcoreapp3.1\17-ExceptionHandling.dll
+E:\C-Shrap-Introduction\17-ExceptionHandling\obj\Debug\netcoreapp3.1\17-ExceptionHandling.pdb
+E:\C-Shrap-Introduction\17-ExceptionHandling\obj\Debug\netcoreapp3.1\17-ExceptionHandling.csprojAssemblyReference.cache
