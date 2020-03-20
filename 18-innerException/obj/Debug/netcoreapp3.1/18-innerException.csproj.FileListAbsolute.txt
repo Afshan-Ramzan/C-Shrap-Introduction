@@ -1,0 +1,11 @@
+E:\C-Shrap-Introduction\18-innerException\bin\Debug\netcoreapp3.1\18-innerException.exe
+E:\C-Shrap-Introduction\18-innerException\bin\Debug\netcoreapp3.1\18-innerException.deps.json
+E:\C-Shrap-Introduction\18-innerException\bin\Debug\netcoreapp3.1\18-innerException.runtimeconfig.json
+E:\C-Shrap-Introduction\18-innerException\bin\Debug\netcoreapp3.1\18-innerException.runtimeconfig.dev.json
+E:\C-Shrap-Introduction\18-innerException\bin\Debug\netcoreapp3.1\18-innerException.dll
+E:\C-Shrap-Introduction\18-innerException\bin\Debug\netcoreapp3.1\18-innerException.pdb
+E:\C-Shrap-Introduction\18-innerException\obj\Debug\netcoreapp3.1\18-innerException.csprojAssemblyReference.cache
+E:\C-Shrap-Introduction\18-innerException\obj\Debug\netcoreapp3.1\18-innerException.AssemblyInfoInputs.cache
+E:\C-Shrap-Introduction\18-innerException\obj\Debug\netcoreapp3.1\18-innerException.AssemblyInfo.cs
+E:\C-Shrap-Introduction\18-innerException\obj\Debug\netcoreapp3.1\18-innerException.dll
+E:\C-Shrap-Introduction\18-innerException\obj\Debug\netcoreapp3.1\18-innerException.pdb
