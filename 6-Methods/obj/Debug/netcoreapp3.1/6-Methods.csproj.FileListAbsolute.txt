@@ -1,0 +1,11 @@
+E:\C-Shrap-Introduction\6-Methods\bin\Debug\netcoreapp3.1\6-Methods.exe
+E:\C-Shrap-Introduction\6-Methods\bin\Debug\netcoreapp3.1\6-Methods.deps.json
+E:\C-Shrap-Introduction\6-Methods\bin\Debug\netcoreapp3.1\6-Methods.runtimeconfig.json
+E:\C-Shrap-Introduction\6-Methods\bin\Debug\netcoreapp3.1\6-Methods.runtimeconfig.dev.json
+E:\C-Shrap-Introduction\6-Methods\bin\Debug\netcoreapp3.1\6-Methods.dll
+E:\C-Shrap-Introduction\6-Methods\bin\Debug\netcoreapp3.1\6-Methods.pdb
+E:\C-Shrap-Introduction\6-Methods\obj\Debug\netcoreapp3.1\6-Methods.csprojAssemblyReference.cache
+E:\C-Shrap-Introduction\6-Methods\obj\Debug\netcoreapp3.1\6-Methods.AssemblyInfoInputs.cache
+E:\C-Shrap-Introduction\6-Methods\obj\Debug\netcoreapp3.1\6-Methods.AssemblyInfo.cs
+E:\C-Shrap-Introduction\6-Methods\obj\Debug\netcoreapp3.1\6-Methods.dll
+E:\C-Shrap-Introduction\6-Methods\obj\Debug\netcoreapp3.1\6-Methods.pdb
