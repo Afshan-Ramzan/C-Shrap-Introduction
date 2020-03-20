@@ -1,0 +1,11 @@
+E:\C-Shrap-Introduction\3-datatype_conversion\bin\Debug\netcoreapp3.1\3-datatype_conversion.exe
+E:\C-Shrap-Introduction\3-datatype_conversion\bin\Debug\netcoreapp3.1\3-datatype_conversion.deps.json
+E:\C-Shrap-Introduction\3-datatype_conversion\bin\Debug\netcoreapp3.1\3-datatype_conversion.runtimeconfig.json
+E:\C-Shrap-Introduction\3-datatype_conversion\bin\Debug\netcoreapp3.1\3-datatype_conversion.runtimeconfig.dev.json
+E:\C-Shrap-Introduction\3-datatype_conversion\bin\Debug\netcoreapp3.1\3-datatype_conversion.dll
+E:\C-Shrap-Introduction\3-datatype_conversion\bin\Debug\netcoreapp3.1\3-datatype_conversion.pdb
+E:\C-Shrap-Introduction\3-datatype_conversion\obj\Debug\netcoreapp3.1\3-datatype_conversion.csprojAssemblyReference.cache
+E:\C-Shrap-Introduction\3-datatype_conversion\obj\Debug\netcoreapp3.1\3-datatype_conversion.AssemblyInfoInputs.cache
+E:\C-Shrap-Introduction\3-datatype_conversion\obj\Debug\netcoreapp3.1\3-datatype_conversion.AssemblyInfo.cs
+E:\C-Shrap-Introduction\3-datatype_conversion\obj\Debug\netcoreapp3.1\3-datatype_conversion.dll
+E:\C-Shrap-Introduction\3-datatype_conversion\obj\Debug\netcoreapp3.1\3-datatype_conversion.pdb
