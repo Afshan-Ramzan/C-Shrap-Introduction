@@ -1,0 +1,11 @@
+E:\C-Shrap-Introduction\5-Condition\bin\Debug\netcoreapp3.1\5-Condition.exe
+E:\C-Shrap-Introduction\5-Condition\bin\Debug\netcoreapp3.1\5-Condition.deps.json
+E:\C-Shrap-Introduction\5-Condition\bin\Debug\netcoreapp3.1\5-Condition.runtimeconfig.json
+E:\C-Shrap-Introduction\5-Condition\bin\Debug\netcoreapp3.1\5-Condition.runtimeconfig.dev.json
+E:\C-Shrap-Introduction\5-Condition\bin\Debug\netcoreapp3.1\5-Condition.dll
+E:\C-Shrap-Introduction\5-Condition\bin\Debug\netcoreapp3.1\5-Condition.pdb
+E:\C-Shrap-Introduction\5-Condition\obj\Debug\netcoreapp3.1\5-Condition.csprojAssemblyReference.cache
+E:\C-Shrap-Introduction\5-Condition\obj\Debug\netcoreapp3.1\5-Condition.AssemblyInfoInputs.cache
+E:\C-Shrap-Introduction\5-Condition\obj\Debug\netcoreapp3.1\5-Condition.AssemblyInfo.cs
+E:\C-Shrap-Introduction\5-Condition\obj\Debug\netcoreapp3.1\5-Condition.dll
+E:\C-Shrap-Introduction\5-Condition\obj\Debug\netcoreapp3.1\5-Condition.pdb
