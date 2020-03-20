@@ -1,0 +1,10 @@
+E:\C-Shrap-Introduction\20-ExceptionHandlingAbuse\bin\Debug\netcoreapp3.1\20-ExceptionHandlingAbuse.exe
+E:\C-Shrap-Introduction\20-ExceptionHandlingAbuse\bin\Debug\netcoreapp3.1\20-ExceptionHandlingAbuse.deps.json
+E:\C-Shrap-Introduction\20-ExceptionHandlingAbuse\bin\Debug\netcoreapp3.1\20-ExceptionHandlingAbuse.runtimeconfig.json
+E:\C-Shrap-Introduction\20-ExceptionHandlingAbuse\bin\Debug\netcoreapp3.1\20-ExceptionHandlingAbuse.runtimeconfig.dev.json
+E:\C-Shrap-Introduction\20-ExceptionHandlingAbuse\bin\Debug\netcoreapp3.1\20-ExceptionHandlingAbuse.dll
+E:\C-Shrap-Introduction\20-ExceptionHandlingAbuse\bin\Debug\netcoreapp3.1\20-ExceptionHandlingAbuse.pdb
+E:\C-Shrap-Introduction\20-ExceptionHandlingAbuse\obj\Debug\netcoreapp3.1\20-ExceptionHandlingAbuse.AssemblyInfoInputs.cache
+E:\C-Shrap-Introduction\20-ExceptionHandlingAbuse\obj\Debug\netcoreapp3.1\20-ExceptionHandlingAbuse.AssemblyInfo.cs
+E:\C-Shrap-Introduction\20-ExceptionHandlingAbuse\obj\Debug\netcoreapp3.1\20-ExceptionHandlingAbuse.dll
+E:\C-Shrap-Introduction\20-ExceptionHandlingAbuse\obj\Debug\netcoreapp3.1\20-ExceptionHandlingAbuse.pdb
