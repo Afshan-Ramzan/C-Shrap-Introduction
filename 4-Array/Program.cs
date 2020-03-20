@@ -11,6 +11,7 @@ namespace _4_Array
             EvenNumber[1] = 2;
             //EvenNumber[2] = 4;
             Console.WriteLine(EvenNumber[2]);
+            Console.WriteLine(EvenNumber[1]);
 
             SampleClass b;
         }

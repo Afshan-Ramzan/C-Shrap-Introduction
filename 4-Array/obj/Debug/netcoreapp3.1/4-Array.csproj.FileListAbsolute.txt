@@ -8,3 +8,4 @@ E:\C-Shrap-Introduction\4-Array\obj\Debug\netcoreapp3.1\4-Array.AssemblyInfoInpu
 E:\C-Shrap-Introduction\4-Array\obj\Debug\netcoreapp3.1\4-Array.AssemblyInfo.cs
 E:\C-Shrap-Introduction\4-Array\obj\Debug\netcoreapp3.1\4-Array.dll
 E:\C-Shrap-Introduction\4-Array\obj\Debug\netcoreapp3.1\4-Array.pdb
+E:\C-Shrap-Introduction\4-Array\obj\Debug\netcoreapp3.1\4-Array.csprojAssemblyReference.cache
