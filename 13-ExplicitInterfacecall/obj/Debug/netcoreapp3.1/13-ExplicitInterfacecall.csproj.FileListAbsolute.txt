@@ -1,0 +1,10 @@
+E:\C-Shrap-Introduction\13-ExplicitInterfacecall\bin\Debug\netcoreapp3.1\13-ExplicitInterfacecall.exe
+E:\C-Shrap-Introduction\13-ExplicitInterfacecall\bin\Debug\netcoreapp3.1\13-ExplicitInterfacecall.deps.json
+E:\C-Shrap-Introduction\13-ExplicitInterfacecall\bin\Debug\netcoreapp3.1\13-ExplicitInterfacecall.runtimeconfig.json
+E:\C-Shrap-Introduction\13-ExplicitInterfacecall\bin\Debug\netcoreapp3.1\13-ExplicitInterfacecall.runtimeconfig.dev.json
+E:\C-Shrap-Introduction\13-ExplicitInterfacecall\bin\Debug\netcoreapp3.1\13-ExplicitInterfacecall.dll
+E:\C-Shrap-Introduction\13-ExplicitInterfacecall\bin\Debug\netcoreapp3.1\13-ExplicitInterfacecall.pdb
+E:\C-Shrap-Introduction\13-ExplicitInterfacecall\obj\Debug\netcoreapp3.1\13-ExplicitInterfacecall.AssemblyInfoInputs.cache
+E:\C-Shrap-Introduction\13-ExplicitInterfacecall\obj\Debug\netcoreapp3.1\13-ExplicitInterfacecall.AssemblyInfo.cs
+E:\C-Shrap-Introduction\13-ExplicitInterfacecall\obj\Debug\netcoreapp3.1\13-ExplicitInterfacecall.dll
+E:\C-Shrap-Introduction\13-ExplicitInterfacecall\obj\Debug\netcoreapp3.1\13-ExplicitInterfacecall.pdb
