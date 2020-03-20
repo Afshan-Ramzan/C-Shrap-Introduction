@@ -1,0 +1,16 @@
+E:\C-Shrap-Introduction\7-Namespaces\bin\Debug\netcoreapp3.1\7-Namespaces.exe
+E:\C-Shrap-Introduction\7-Namespaces\bin\Debug\netcoreapp3.1\7-Namespaces.deps.json
+E:\C-Shrap-Introduction\7-Namespaces\bin\Debug\netcoreapp3.1\7-Namespaces.runtimeconfig.json
+E:\C-Shrap-Introduction\7-Namespaces\bin\Debug\netcoreapp3.1\7-Namespaces.runtimeconfig.dev.json
+E:\C-Shrap-Introduction\7-Namespaces\bin\Debug\netcoreapp3.1\7-Namespaces.dll
+E:\C-Shrap-Introduction\7-Namespaces\bin\Debug\netcoreapp3.1\7-Namespaces.pdb
+E:\C-Shrap-Introduction\7-Namespaces\bin\Debug\netcoreapp3.1\ProjectA.dll
+E:\C-Shrap-Introduction\7-Namespaces\bin\Debug\netcoreapp3.1\ProjectA.TeamB.dll
+E:\C-Shrap-Introduction\7-Namespaces\bin\Debug\netcoreapp3.1\ProjectA.TeamB.pdb
+E:\C-Shrap-Introduction\7-Namespaces\bin\Debug\netcoreapp3.1\ProjectA.pdb
+E:\C-Shrap-Introduction\7-Namespaces\obj\Debug\netcoreapp3.1\7-Namespaces.csprojAssemblyReference.cache
+E:\C-Shrap-Introduction\7-Namespaces\obj\Debug\netcoreapp3.1\7-Namespaces.AssemblyInfoInputs.cache
+E:\C-Shrap-Introduction\7-Namespaces\obj\Debug\netcoreapp3.1\7-Namespaces.AssemblyInfo.cs
+E:\C-Shrap-Introduction\7-Namespaces\obj\Debug\netcoreapp3.1\7-Namespaces.csproj.CopyComplete
+E:\C-Shrap-Introduction\7-Namespaces\obj\Debug\netcoreapp3.1\7-Namespaces.dll
+E:\C-Shrap-Introduction\7-Namespaces\obj\Debug\netcoreapp3.1\7-Namespaces.pdb

@@ -1,0 +1,111 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ProjectA/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/ProjectA.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProjectA.dll": {}
+        }
+      },
+      "ProjectA.TeamB/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/ProjectA.TeamB.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProjectA.TeamB.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProjectA/1.0.0": {
+      "type": "project",
+      "path": "../ProjectA/ProjectA.csproj",
+      "msbuildProject": "../ProjectA/ProjectA.csproj"
+    },
+    "ProjectA.TeamB/1.0.0": {
+      "type": "project",
+      "path": "../ProjectA.TeamB/ProjectA.TeamB.csproj",
+      "msbuildProject": "../ProjectA.TeamB/ProjectA.TeamB.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "ProjectA >= 1.0.0",
+      "ProjectA.TeamB >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\User\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\C-Shrap-Introduction\\7-Namespaces\\7-Namespaces.csproj",
+      "projectName": "7-Namespaces",
+      "projectPath": "E:\\C-Shrap-Introduction\\7-Namespaces\\7-Namespaces.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "E:\\C-Shrap-Introduction\\7-Namespaces\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "E:\\C-Shrap-Introduction\\ProjectA.TeamB\\ProjectA.TeamB.csproj": {
+              "projectPath": "E:\\C-Shrap-Introduction\\ProjectA.TeamB\\ProjectA.TeamB.csproj"
+            },
+            "E:\\C-Shrap-Introduction\\ProjectA\\ProjectA.csproj": {
+              "projectPath": "E:\\C-Shrap-Introduction\\ProjectA\\ProjectA.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
