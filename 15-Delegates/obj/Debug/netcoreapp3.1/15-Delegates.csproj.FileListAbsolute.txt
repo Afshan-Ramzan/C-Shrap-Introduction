@@ -1,0 +1,10 @@
+E:\C-Shrap-Introduction\15-Delegates\bin\Debug\netcoreapp3.1\15-Delegates.exe
+E:\C-Shrap-Introduction\15-Delegates\bin\Debug\netcoreapp3.1\15-Delegates.deps.json
+E:\C-Shrap-Introduction\15-Delegates\bin\Debug\netcoreapp3.1\15-Delegates.runtimeconfig.json
+E:\C-Shrap-Introduction\15-Delegates\bin\Debug\netcoreapp3.1\15-Delegates.runtimeconfig.dev.json
+E:\C-Shrap-Introduction\15-Delegates\bin\Debug\netcoreapp3.1\15-Delegates.dll
+E:\C-Shrap-Introduction\15-Delegates\bin\Debug\netcoreapp3.1\15-Delegates.pdb
+E:\C-Shrap-Introduction\15-Delegates\obj\Debug\netcoreapp3.1\15-Delegates.AssemblyInfoInputs.cache
+E:\C-Shrap-Introduction\15-Delegates\obj\Debug\netcoreapp3.1\15-Delegates.AssemblyInfo.cs
+E:\C-Shrap-Introduction\15-Delegates\obj\Debug\netcoreapp3.1\15-Delegates.dll
+E:\C-Shrap-Introduction\15-Delegates\obj\Debug\netcoreapp3.1\15-Delegates.pdb
