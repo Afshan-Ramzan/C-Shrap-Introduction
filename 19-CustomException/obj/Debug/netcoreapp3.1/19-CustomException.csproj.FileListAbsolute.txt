@@ -1,0 +1,10 @@
+E:\C-Shrap-Introduction\19-CustomException\obj\Debug\netcoreapp3.1\19-CustomException.AssemblyInfoInputs.cache
+E:\C-Shrap-Introduction\19-CustomException\obj\Debug\netcoreapp3.1\19-CustomException.AssemblyInfo.cs
+E:\C-Shrap-Introduction\19-CustomException\bin\Debug\netcoreapp3.1\19-CustomException.exe
+E:\C-Shrap-Introduction\19-CustomException\bin\Debug\netcoreapp3.1\19-CustomException.deps.json
+E:\C-Shrap-Introduction\19-CustomException\bin\Debug\netcoreapp3.1\19-CustomException.runtimeconfig.json
+E:\C-Shrap-Introduction\19-CustomException\bin\Debug\netcoreapp3.1\19-CustomException.runtimeconfig.dev.json
+E:\C-Shrap-Introduction\19-CustomException\bin\Debug\netcoreapp3.1\19-CustomException.dll
+E:\C-Shrap-Introduction\19-CustomException\bin\Debug\netcoreapp3.1\19-CustomException.pdb
+E:\C-Shrap-Introduction\19-CustomException\obj\Debug\netcoreapp3.1\19-CustomException.dll
+E:\C-Shrap-Introduction\19-CustomException\obj\Debug\netcoreapp3.1\19-CustomException.pdb
