@@ -1,0 +1,10 @@
+E:\C-Shrap-Introduction\16-MulticastDelegates\bin\Debug\netcoreapp3.1\16-MulticastDelegates.exe
+E:\C-Shrap-Introduction\16-MulticastDelegates\bin\Debug\netcoreapp3.1\16-MulticastDelegates.deps.json
+E:\C-Shrap-Introduction\16-MulticastDelegates\bin\Debug\netcoreapp3.1\16-MulticastDelegates.runtimeconfig.json
+E:\C-Shrap-Introduction\16-MulticastDelegates\bin\Debug\netcoreapp3.1\16-MulticastDelegates.runtimeconfig.dev.json
+E:\C-Shrap-Introduction\16-MulticastDelegates\bin\Debug\netcoreapp3.1\16-MulticastDelegates.dll
+E:\C-Shrap-Introduction\16-MulticastDelegates\bin\Debug\netcoreapp3.1\16-MulticastDelegates.pdb
+E:\C-Shrap-Introduction\16-MulticastDelegates\obj\Debug\netcoreapp3.1\16-MulticastDelegates.AssemblyInfoInputs.cache
+E:\C-Shrap-Introduction\16-MulticastDelegates\obj\Debug\netcoreapp3.1\16-MulticastDelegates.AssemblyInfo.cs
+E:\C-Shrap-Introduction\16-MulticastDelegates\obj\Debug\netcoreapp3.1\16-MulticastDelegates.dll
+E:\C-Shrap-Introduction\16-MulticastDelegates\obj\Debug\netcoreapp3.1\16-MulticastDelegates.pdb
