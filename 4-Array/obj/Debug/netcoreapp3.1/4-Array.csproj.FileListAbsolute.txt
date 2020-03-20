@@ -1,0 +1,10 @@
+E:\C-Shrap-Introduction\4-Array\bin\Debug\netcoreapp3.1\4-Array.exe
+E:\C-Shrap-Introduction\4-Array\bin\Debug\netcoreapp3.1\4-Array.deps.json
+E:\C-Shrap-Introduction\4-Array\bin\Debug\netcoreapp3.1\4-Array.runtimeconfig.json
+E:\C-Shrap-Introduction\4-Array\bin\Debug\netcoreapp3.1\4-Array.runtimeconfig.dev.json
+E:\C-Shrap-Introduction\4-Array\bin\Debug\netcoreapp3.1\4-Array.dll
+E:\C-Shrap-Introduction\4-Array\bin\Debug\netcoreapp3.1\4-Array.pdb
+E:\C-Shrap-Introduction\4-Array\obj\Debug\netcoreapp3.1\4-Array.AssemblyInfoInputs.cache
+E:\C-Shrap-Introduction\4-Array\obj\Debug\netcoreapp3.1\4-Array.AssemblyInfo.cs
+E:\C-Shrap-Introduction\4-Array\obj\Debug\netcoreapp3.1\4-Array.dll
+E:\C-Shrap-Introduction\4-Array\obj\Debug\netcoreapp3.1\4-Array.pdb
