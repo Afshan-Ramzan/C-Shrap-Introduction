@@ -1,0 +1,21 @@
+E:\Introduction to C#\2-Operators\bin\Debug\netcoreapp3.1\2-Operators.exe
+E:\Introduction to C#\2-Operators\bin\Debug\netcoreapp3.1\2-Operators.deps.json
+E:\Introduction to C#\2-Operators\bin\Debug\netcoreapp3.1\2-Operators.runtimeconfig.json
+E:\Introduction to C#\2-Operators\bin\Debug\netcoreapp3.1\2-Operators.runtimeconfig.dev.json
+E:\Introduction to C#\2-Operators\bin\Debug\netcoreapp3.1\2-Operators.dll
+E:\Introduction to C#\2-Operators\bin\Debug\netcoreapp3.1\2-Operators.pdb
+E:\Introduction to C#\2-Operators\obj\Debug\netcoreapp3.1\2-Operators.csprojAssemblyReference.cache
+E:\Introduction to C#\2-Operators\obj\Debug\netcoreapp3.1\2-Operators.AssemblyInfoInputs.cache
+E:\Introduction to C#\2-Operators\obj\Debug\netcoreapp3.1\2-Operators.AssemblyInfo.cs
+E:\Introduction to C#\2-Operators\obj\Debug\netcoreapp3.1\2-Operators.dll
+E:\Introduction to C#\2-Operators\obj\Debug\netcoreapp3.1\2-Operators.pdb
+E:\C-Shrap-Introduction\2-Operators\bin\Debug\netcoreapp3.1\2-Operators.exe
+E:\C-Shrap-Introduction\2-Operators\bin\Debug\netcoreapp3.1\2-Operators.deps.json
+E:\C-Shrap-Introduction\2-Operators\bin\Debug\netcoreapp3.1\2-Operators.runtimeconfig.json
+E:\C-Shrap-Introduction\2-Operators\bin\Debug\netcoreapp3.1\2-Operators.runtimeconfig.dev.json
+E:\C-Shrap-Introduction\2-Operators\bin\Debug\netcoreapp3.1\2-Operators.dll
+E:\C-Shrap-Introduction\2-Operators\bin\Debug\netcoreapp3.1\2-Operators.pdb
+E:\C-Shrap-Introduction\2-Operators\obj\Debug\netcoreapp3.1\2-Operators.AssemblyInfoInputs.cache
+E:\C-Shrap-Introduction\2-Operators\obj\Debug\netcoreapp3.1\2-Operators.AssemblyInfo.cs
+E:\C-Shrap-Introduction\2-Operators\obj\Debug\netcoreapp3.1\2-Operators.dll
+E:\C-Shrap-Introduction\2-Operators\obj\Debug\netcoreapp3.1\2-Operators.pdb
