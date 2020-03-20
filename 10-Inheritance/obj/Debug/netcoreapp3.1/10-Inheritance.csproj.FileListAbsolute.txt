@@ -1,0 +1,10 @@
+E:\C-Shrap-Introduction\10-Inheritance\bin\Debug\netcoreapp3.1\10-Inheritance.exe
+E:\C-Shrap-Introduction\10-Inheritance\bin\Debug\netcoreapp3.1\10-Inheritance.deps.json
+E:\C-Shrap-Introduction\10-Inheritance\bin\Debug\netcoreapp3.1\10-Inheritance.runtimeconfig.json
+E:\C-Shrap-Introduction\10-Inheritance\bin\Debug\netcoreapp3.1\10-Inheritance.runtimeconfig.dev.json
+E:\C-Shrap-Introduction\10-Inheritance\bin\Debug\netcoreapp3.1\10-Inheritance.dll
+E:\C-Shrap-Introduction\10-Inheritance\bin\Debug\netcoreapp3.1\10-Inheritance.pdb
+E:\C-Shrap-Introduction\10-Inheritance\obj\Debug\netcoreapp3.1\10-Inheritance.AssemblyInfoInputs.cache
+E:\C-Shrap-Introduction\10-Inheritance\obj\Debug\netcoreapp3.1\10-Inheritance.AssemblyInfo.cs
+E:\C-Shrap-Introduction\10-Inheritance\obj\Debug\netcoreapp3.1\10-Inheritance.dll
+E:\C-Shrap-Introduction\10-Inheritance\obj\Debug\netcoreapp3.1\10-Inheritance.pdb
