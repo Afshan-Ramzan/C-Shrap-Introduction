@@ -1,0 +1,10 @@
+E:\C-Shrap-Introduction\11-Structure\bin\Debug\netcoreapp3.1\11-Structure.exe
+E:\C-Shrap-Introduction\11-Structure\bin\Debug\netcoreapp3.1\11-Structure.deps.json
+E:\C-Shrap-Introduction\11-Structure\bin\Debug\netcoreapp3.1\11-Structure.runtimeconfig.json
+E:\C-Shrap-Introduction\11-Structure\bin\Debug\netcoreapp3.1\11-Structure.runtimeconfig.dev.json
+E:\C-Shrap-Introduction\11-Structure\bin\Debug\netcoreapp3.1\11-Structure.dll
+E:\C-Shrap-Introduction\11-Structure\bin\Debug\netcoreapp3.1\11-Structure.pdb
+E:\C-Shrap-Introduction\11-Structure\obj\Debug\netcoreapp3.1\11-Structure.AssemblyInfoInputs.cache
+E:\C-Shrap-Introduction\11-Structure\obj\Debug\netcoreapp3.1\11-Structure.AssemblyInfo.cs
+E:\C-Shrap-Introduction\11-Structure\obj\Debug\netcoreapp3.1\11-Structure.dll
+E:\C-Shrap-Introduction\11-Structure\obj\Debug\netcoreapp3.1\11-Structure.pdb
