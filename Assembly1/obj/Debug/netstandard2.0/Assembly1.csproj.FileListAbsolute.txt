@@ -1,0 +1,8 @@
+E:\C-Shrap-Introduction\Assembly1\bin\Debug\netstandard2.0\Assembly1.deps.json
+E:\C-Shrap-Introduction\Assembly1\bin\Debug\netstandard2.0\Assembly1.dll
+E:\C-Shrap-Introduction\Assembly1\bin\Debug\netstandard2.0\Assembly1.pdb
+E:\C-Shrap-Introduction\Assembly1\obj\Debug\netstandard2.0\Assembly1.csprojAssemblyReference.cache
+E:\C-Shrap-Introduction\Assembly1\obj\Debug\netstandard2.0\Assembly1.AssemblyInfoInputs.cache
+E:\C-Shrap-Introduction\Assembly1\obj\Debug\netstandard2.0\Assembly1.AssemblyInfo.cs
+E:\C-Shrap-Introduction\Assembly1\obj\Debug\netstandard2.0\Assembly1.dll
+E:\C-Shrap-Introduction\Assembly1\obj\Debug\netstandard2.0\Assembly1.pdb
