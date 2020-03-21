@@ -1,0 +1,10 @@
+E:\C-Shrap-Introduction\23-AccessModifiers\obj\Debug\netcoreapp3.1\23-AccessModifiers.AssemblyInfoInputs.cache
+E:\C-Shrap-Introduction\23-AccessModifiers\obj\Debug\netcoreapp3.1\23-AccessModifiers.AssemblyInfo.cs
+E:\C-Shrap-Introduction\23-AccessModifiers\bin\Debug\netcoreapp3.1\23-AccessModifiers.exe
+E:\C-Shrap-Introduction\23-AccessModifiers\bin\Debug\netcoreapp3.1\23-AccessModifiers.deps.json
+E:\C-Shrap-Introduction\23-AccessModifiers\bin\Debug\netcoreapp3.1\23-AccessModifiers.runtimeconfig.json
+E:\C-Shrap-Introduction\23-AccessModifiers\bin\Debug\netcoreapp3.1\23-AccessModifiers.runtimeconfig.dev.json
+E:\C-Shrap-Introduction\23-AccessModifiers\bin\Debug\netcoreapp3.1\23-AccessModifiers.dll
+E:\C-Shrap-Introduction\23-AccessModifiers\bin\Debug\netcoreapp3.1\23-AccessModifiers.pdb
+E:\C-Shrap-Introduction\23-AccessModifiers\obj\Debug\netcoreapp3.1\23-AccessModifiers.dll
+E:\C-Shrap-Introduction\23-AccessModifiers\obj\Debug\netcoreapp3.1\23-AccessModifiers.pdb
