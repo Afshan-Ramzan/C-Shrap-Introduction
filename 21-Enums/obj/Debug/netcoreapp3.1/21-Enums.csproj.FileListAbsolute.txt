@@ -1,0 +1,11 @@
+E:\C-Shrap-Introduction\21-Enums\obj\Debug\netcoreapp3.1\21-Enums.AssemblyInfoInputs.cache
+E:\C-Shrap-Introduction\21-Enums\obj\Debug\netcoreapp3.1\21-Enums.AssemblyInfo.cs
+E:\C-Shrap-Introduction\21-Enums\bin\Debug\netcoreapp3.1\21-Enums.exe
+E:\C-Shrap-Introduction\21-Enums\bin\Debug\netcoreapp3.1\21-Enums.deps.json
+E:\C-Shrap-Introduction\21-Enums\bin\Debug\netcoreapp3.1\21-Enums.runtimeconfig.json
+E:\C-Shrap-Introduction\21-Enums\bin\Debug\netcoreapp3.1\21-Enums.runtimeconfig.dev.json
+E:\C-Shrap-Introduction\21-Enums\bin\Debug\netcoreapp3.1\21-Enums.dll
+E:\C-Shrap-Introduction\21-Enums\bin\Debug\netcoreapp3.1\21-Enums.pdb
+E:\C-Shrap-Introduction\21-Enums\obj\Debug\netcoreapp3.1\21-Enums.dll
+E:\C-Shrap-Introduction\21-Enums\obj\Debug\netcoreapp3.1\21-Enums.pdb
+E:\C-Shrap-Introduction\21-Enums\obj\Debug\netcoreapp3.1\21-Enums.csprojAssemblyReference.cache
